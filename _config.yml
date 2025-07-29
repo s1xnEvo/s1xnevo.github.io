@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: Mayx的博客
-logo: https://avatars0.githubusercontent.com/u/17966333
+title: OR3on的博客
+logo: https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/avatar.jpg
 lang: zh-CN
-author: mayx
-description: Mayx's Home Page
+author: or3on
+description: OR3on's Home Page
 timezone: Asia/Shanghai
 excerpt_separator: <!--more-->
 paginate: 7
@@ -14,11 +14,11 @@ plugins:
 feed:
   path: atom.xml
 webmaster_verifications:
-  google: huTYdEesm8NaFymixMNqflyCp6Jfvd615j5Wq1i2PHc
-  yandex: fc0e535abed800be
-  bing: 0ADFCE64B3557DC4DC5F2DC224C5FDDD
+  google:  
+  yandex:  
+  bing:  
 social:
-  name: Mayx
+  name: OR3on
   links:
-    - https://github.com/Mabbs
+    - https://github.com/s1xnEvo
 google_analytics: UA-137710294-1
