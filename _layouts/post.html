@@ -163,14 +163,14 @@ $.get(BlogAPI + "/suggest?id={{ page.url }}&update=" + lastUpdated.valueOf(), fu
 
 <script>
   var gitalk = new Gitalk({
-    clientID: 'Ov23live8OuRaUTsc0UH',
-    clientSecret: '45989ff9adaaf0cbbf85aaab232df440e4ab3427',
+    clientID: 'Ov23liBamiDpzhRQqjT0',
+    clientSecret: 'ff9011afab881610ff0ddfc4c78efe97e92a778d',
     repo: 's1xnevo.github.io',
     owner: 's1xnEvo',
     admin: ['s1xnEvo'],
     id: '{{ page.id }}',      // Ensure uniqueness and length less than 50 指定评论在 GitHub Issues 中的唯一标识符。
     distractionFreeMode: false,  // Facebook-like distraction free mode 是否启用“沉浸模式”，就是让用户写评论时进入更干净的界面，true 是类似 Facebook 的评论框，评论时页面其他元素会隐藏，评论框放大。
-    proxy:  // 解决 Gitalk OAuth 登录时的跨域问题（CORS），是原博客主题作者通过 Cloudflare 平台搭建的公开跨域代理服务，帮助中转到 GitHub，绕过 CORS 限制。
+    proxy: "https://cors-anywhere.mayx.eu.org/?https://github.com/login/oauth/access_token"  // 解决 Gitalk OAuth 登录时的跨域问题（CORS），是原博客主题作者通过 Cloudflare 平台搭建的公开跨域代理服务，帮助中转到 GitHub，绕过 CORS 限制。
   }) 
   gitalk.render('gitalk-container')
 </script>
