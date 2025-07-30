@@ -174,4 +174,23 @@ $.get(BlogAPI + "/suggest?id={{ page.url }}&update=" + lastUpdated.valueOf(), fu
   }) 
   gitalk.render('gitalk-container')
 </script>
+
+<script>
+(function() {
+  const elements = document.querySelectorAll(".visitors");
+  elements.forEach(el => {
+    const id = el.id || location.pathname;
+
+    fetch("https://shrill-heart-ab30.s1xnevo-me.workers.dev/?id=" + encodeURIComponent(id))
+      .then(res => res.json())
+      .then(data => {
+        el.innerText = data.views;
+      })
+      .catch(err => {
+        console.error("点击计数失败：", err);
+        el.innerText = "N/A";
+      });
+  });
+})();
+</script> 
 <!-- <![endif]-->
