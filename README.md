@@ -3,12 +3,10 @@ layout: default
 ---
 
 # 博客主题 ↓
-Mayx’s Home Page: [Mayx的博客](https://mabbs.github.io)</br> 
-作者：[Mabbs](https://github.com/Mabbs)</br>
-Powered by [Jekyll](https://github.com/jekyll/jekyll)   
-</br>
-![ScreenShot](https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/mayx_preview_.png)
-
+Mayx’s Home Page: [Mayx的博客](https://mabbs.github.io)   
+作者：[Mabbs](https://github.com/Mabbs)   
+Powered by [Jekyll](https://github.com/jekyll/jekyll)  
+![ScreenShot](https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/mayx_preview3.png)  
 [![pages-build-deployment](https://github.com/Mabbs/mabbs.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mabbs/mabbs.github.io/actions/workflows/pages/pages-build-deployment) [![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-red?logo=jekyll)](https://github.com/jekyll/jekyll)   
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmabbs.github.io)](https://mabbs.github.io)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Mabbs/mabbs.github.io?label=Size)](https://github.com/Mabbs/mabbs.github.io)
