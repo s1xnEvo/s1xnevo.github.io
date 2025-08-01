@@ -5,7 +5,7 @@ layout: default
 # 博客主题 ↓
 Mayx’s Home Page: [Mayx的博客](https://mabbs.github.io)   
 作者：[Mabbs](https://github.com/Mabbs)    
-项目：https://github.com/Mabbs/mabbs.github.io  
+项目：[Mabbs/mabbs.github.io](https://github.com/Mabbs/mabbs.github.io )   
 Powered by [Jekyll](https://github.com/jekyll/jekyll)  
 ![ScreenShot](https://cdn.jsdelivr.net/gh/Austyncleo/Img_picgo@main/notes/course/mayx_preview3.png)  
 [![pages-build-deployment](https://github.com/Mabbs/mabbs.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mabbs/mabbs.github.io/actions/workflows/pages/pages-build-deployment) [![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-red?logo=jekyll)](https://github.com/jekyll/jekyll)   
