@@ -15,3 +15,6 @@ group :jekyll_plugins do
   gem "kramdown-parser-gfm", "~> 1.1.0"
   gem "kramdown", "~> 2.3.2"
 end
+
+gem "tzinfo", "~> 1.2"
+gem "tzinfo-data"

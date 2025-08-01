@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head>
+    <title>Mayx Blogroll</title>
+    <ownerName>or3on</ownerName>
+  </head>
+  <body>
+    <outline text="花火学园" title="花火学园" description="和谐融洽的ACG交流以及资源聚集地" type="link" htmlUrl="https://www.sayhanabi.net/" />
+    <outline text="资源统筹局" title="资源统筹局" description="统筹保管用户分享的资源" type="link" htmlUrl="https://gkdworld.com/" />
+    <outline text="贫困的蚊子" title="贫困的蚊子" type="rss" xmlUrl="https://mozz.ie/index.xml" htmlUrl="https://mozz.ie/" />
+    <outline text="极客兔兔" title="极客兔兔" description="致力于分享有趣的技术实践" type="rss" xmlUrl="https://geektutu.com/atom.xml" htmlUrl="https://geektutu.com/" />
+    <outline text="维基萌" title="维基萌" description="萌即是正义！一名热爱acg的前端设计师的小站！" type="rss" xmlUrl="https://www.wikimoe.com/rss" htmlUrl="https://www.wikimoe.com/" />
+    <outline text="7gugu's blog" title="7gugu's blog" description="一个用来存放我爱好的地方,编程,摄影之类的空间" type="rss" xmlUrl="https://7gugu.com/index.php/feed/" htmlUrl="https://www.7gugu.com/" />
+    <outline text="云游君" title="云游君" description="希望能成为一个有趣的人。" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn/" />
+    <outline text="Kingfish404" title="Kingfish404" description="Stay curious,stay naive. WUT. Jin Yu's Blog" type="rss" xmlUrl="https://blog.kingfish404.cn/index.xml" htmlUrl="https://blog.kingfish404.cn/" />
+    <outline text="FKUN" title="FKUN" type="rss" xmlUrl="https://blog.fkun.tech/feed/" htmlUrl="https://blog.fkun.tech/" />
+    <outline text="Sinofine" title="Sinofine" type="rss" xmlUrl="https://sinofine.me/atom.xml" htmlUrl="https://sinofine.me/" />
+    <outline text="花生莲子粥" title="花生莲子粥" description="与世无争，不染于泥" type="rss" xmlUrl="https://blog.hslzz.cn/atom.xml" htmlUrl="https://blog.hslzz.cn/" />
+    <outline text="南蛮子懋和" title="南蛮子懋和" description="李懋和，俗名李栋梁。书法、国画爱好者，互联网安全与前端建设者。" type="rss" xmlUrl="https://www.dao.js.cn/feed.php" htmlUrl="https://www.dao.js.cn/" />
+    <outline text="Vullfin的博客" title="Vullfin的博客" description="Vullfin's Home Page" type="rss" xmlUrl="https://blog.vull.top/atom.xml" htmlUrl="https://blog.vull.top/" />
+    <outline text="阿涛の小破站" title="阿涛の小破站" description="Docker技术分享" type="rss" xmlUrl="https://emohe.cn/rss.xml" htmlUrl="https://emohe.cn/" />
+    <outline text="記緒漂流" title="記緒漂流" description="于记忆之川，泛思绪之舟。" type="rss" xmlUrl="https://ttio.cc/feed/" htmlUrl="https://ttio.cc/" />
+    <outline text="陈陈菌博客" title="陈陈菌博客" description="计算机业余爱好者。" type="link" htmlUrl="https://blog.glumi.cn/" />
+  </body>
+</opml>
